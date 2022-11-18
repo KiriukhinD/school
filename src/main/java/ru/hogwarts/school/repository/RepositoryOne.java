@@ -4,4 +4,5 @@ public class RepositoryOne {
 
     int x;
     int b;
+    String d;
 }
