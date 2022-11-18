@@ -42,7 +42,6 @@ public class FacultyService {
         return facultiesMap.remove(id);
     }
 
-
     public Collection<Faculty> findByColor(String color) {
         return facultiesMap.values()
                 .stream()
